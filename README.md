@@ -12,6 +12,8 @@ The Movie Recommender System provides personalized movie recommendations based o
 
 The TMDB 5000 dataset is a popular dataset for movie recommendations and contains detailed information about movies. This dataset includes:
 
+**Link to dataset**: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 - **Movie ID**: Unique identifier for each movie.
 - **Title**: The title of the movie.
 - **Overview**: A brief description or synopsis of the movie.
