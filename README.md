@@ -1,4 +1,4 @@
-# Movie Recommender System
+# Movie Recommendation System
 
 Welcome to the Movie Recommender System project! This repository contains a movie recommendation engine that utilizes the TMDB 5000 dataset and cosine similarity to suggest movies based on user input.
 
